@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  },
+  "name": "discord.js-starter",
+  "description": "Template for those who want to use discord.js   discord.jsを使いたい人のためのテンプレート",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": {
+    "name": "reactor-coding",
+    "url": "https://github.com/reactor-coding/discord.js-starter"
+  },
+  "license": "BSD 3-Clause License",
+  "bugs": {
+    "url": "https://github.com/reactor-coding/discord.js-starter/issues"
+  },
+  "type": "module"
+}
